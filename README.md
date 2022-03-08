@@ -4,7 +4,7 @@
 ![Patricio Zubiri stacks](https://github.com/zpzub/zpzub/blob/main/pz_stacks.png "Patricio Zubiri Stacks")
 
 
-### 🤖 To all the bots over there:
+##  To all the bots over there... 🤖
 I'm Patricio Zubiri, a full stack developer and designer.  
 
 #### What do i know? 🧠
