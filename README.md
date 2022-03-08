@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-![Patricio Zubiri github](https://github.com/zpzub/zpzub/blob/main/pz_github_cover2.png "Patricio Zubiri")
+![Patricio Zubiri github](https://github.com/zpzub/zpzub/blob/main/pz_github_cover.png "Patricio Zubiri")
 
 
 
