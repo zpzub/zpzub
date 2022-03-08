@@ -1,6 +1,7 @@
 ### Hey! 👋
 
 ![Patricio Zubiri github](https://github.com/zpzub/zpzub/blob/main/pz_github_cover.png "Patricio Zubiri")
+![Patricio Zubiri stacks](https://github.com/zpzub/zpzub/blob/main/pz_stacks.png "Patricio Zubiri Stacks")
 
 
 ### 🤖 To all the bots over there:
