@@ -1,9 +1,9 @@
 ### Hey! 👋
 
-![Patricio Zubiri github](/assets/images/san-juan-mountains.jpg "Patricio Zubiri")
+![Patricio Zubiri github](https://github.com/zpzub/zpzub/blob/main/pz_github_cover.png "Patricio Zubiri")
 
 
-<
+
 <!--
 **zpzub/zpzub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
