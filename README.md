@@ -19,9 +19,9 @@ I'm Patricio Zubiri, a full stack developer and designer.
 
 ### Let's talk! 💬
 
-Check out my portfolio → 🧔🏻 patriciozubiri.com(https://www.patriciozubiri.com)  
+Check out my portfolio → 🧔🏻 https://www.patriciozubiri.com
 
-Check out my LinkedIn profile → 🖥 linkedin.com/in/patriciozubiri-dev(https://www.linkedin.com/in/patriciozubiri-dev/)  
+Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/patriciozubiri-dev/
 
 Email me at → 💌 bonjour@patriciozubiri.com
 
