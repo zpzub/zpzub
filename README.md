@@ -4,7 +4,8 @@
 ![Patricio Zubiri stacks](https://github.com/zpzub/zpzub/blob/main/pz_stacks.png "Patricio Zubiri Stacks")
 ![Patricio Zubiri p1](https://github.com/zpzub/zpzub/blob/main/pz_github_projects1.png "Patricio Zubiri Projects")
 ![Patricio Zubiri p2](https://github.com/zpzub/zpzub/blob/main/pz_github_projects2.png "Patricio Zubiri Projects")
-
+![Patricio Zubiri What Else](https://github.com/zpzub/zpzub/blob/main/pz_github_what_else.png "Patricio Zubiri What Else")
+![Patricio Zubiri Let's Talk](https://github.com/zpzub/zpzub/blob/main/pz_github_talk.png "Patricio Zubiri Contact")
 
 
 
