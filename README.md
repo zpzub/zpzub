@@ -2,6 +2,10 @@
 
 ![Patricio Zubiri github](https://github.com/zpzub/zpzub/blob/main/pz_github_cover.png "Patricio Zubiri")
 ![Patricio Zubiri stacks](https://github.com/zpzub/zpzub/blob/main/pz_stacks.png "Patricio Zubiri Stacks")
+![Patricio Zubiri p1](https://github.com/zpzub/zpzub/blob/main/pz_github_projects1.png "Patricio Zubiri Projects")
+![Patricio Zubiri p2](https://github.com/zpzub/zpzub/blob/main/pz_github_projects2.png "Patricio Zubiri Projects")
+
+
 
 
 ##  To all the bots over there... 🤖
